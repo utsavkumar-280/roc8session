@@ -1,0 +1,6 @@
+.mainContainer {
+  padding: 2rem;
+  display: flex;
+  background-color: #4d25e0;
+  color: white;
+}
