@@ -1,5 +1,59 @@
 .mainContainer {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
+	margin: 0 0.5rem;
+	padding: 1rem;
+	width: 17.5rem;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	background-color: white;
+	border-radius: 1rem;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+		rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+.mainContainer > button {
+	padding: 0.5rem 3rem;
+	background-color: #4d25e0;
+	color: white;
+
+	font-family: "Poppins", sans-serif;
+	font-weight: 600;
+	border: none;
+	border-radius: 3rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	transition: all ease-in-out 0.25s;
+}
+.mainContainer > button:hover {
+	transition: all ease-in-out 0.25s;
+	cursor: pointer;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+		rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.subHead {
+	font-weight: 600;
+}
+
+.sortConatiner {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.filterConatiner {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+* {
+	text-decoration: none;
+	list-style: none;
+}
+
+ul {
+	margin: 1rem 0;
 }

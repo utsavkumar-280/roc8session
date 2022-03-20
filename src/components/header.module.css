@@ -1,6 +1,15 @@
 .mainContainer {
-  padding: 2rem;
-  display: flex;
-  background-color: #4d25e0;
-  color: white;
+	height: 10vh;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	background-color: #4d25e0;
+	color: white;
+}
+
+.headContainer {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0 2rem;
 }

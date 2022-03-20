@@ -1,31 +1,76 @@
 {
-  "products": [
-    {
-      "_id": "1",
-      "name": "Full Sleeve Shirt",
-      "img": "https://picsum.photos/200",
-      "gender": "female",
-      "size": "medium",
-      "brand": "Roadser",
-      "price": 2200
-    },
-    {
-      "_id": "2",
-      "name": "Blue Jeans",
-      "img": "https://picsum.photos/200",
-      "gender": "female",
-      "size": "large",
-      "brand": "Roadser",
-      "price": 1400
-    },
-    {
-      "_id": "3",
-      "name": "Red T-Shirt",
-      "img": "https://picsum.photos/200",
-      "gender": "male",
-      "size": "extraLarge",
-      "brand": "Nike",
-      "price": 990
-    }
-  ]
+	"products": [
+		{
+			"_id": "1",
+			"name": "Full Sleeve Shirt",
+			"img": "https://picsum.photos/200/300",
+			"gender": "female",
+			"size": "medium",
+			"brand": "Roadster",
+			"price": 2200
+		},
+		{
+			"_id": "2",
+			"name": "Blue Jeans",
+			"img": "https://picsum.photos/300",
+			"gender": "female",
+			"size": "large",
+			"brand": "Roadser",
+			"price": 1400
+		},
+		{
+			"_id": "3",
+			"name": "Red T-Shirt",
+			"img": "https://picsum.photos/800",
+			"gender": "male",
+			"size": "extraLarge",
+			"brand": "Nike",
+			"price": 990
+		},
+		{
+			"_id": "4",
+			"name": "Jeans Shorts",
+			"img": "https://picsum.photos/200/300",
+			"gender": "male",
+			"size": "small",
+			"brand": "Adidas",
+			"price": 990
+		},
+		{
+			"_id": "5",
+			"name": "Full Sleave T-Shirt",
+			"img": "https://picsum.photos/500",
+			"gender": "male",
+			"size": "extraLarge",
+			"brand": "Nike",
+			"price": 1990
+		},
+		{
+			"_id": "6",
+			"name": "Blue T-Shirt",
+			"img": "https://picsum.photos/200/300",
+			"gender": "male",
+			"size": "large",
+			"brand": "Roadster",
+			"price": 790
+		},
+		{
+			"_id": "7",
+			"name": "Batman T-Shirt",
+			"img": "https://picsum.photos/200/300",
+			"gender": "female",
+			"size": "small",
+			"brand": "Puma",
+			"price": 2770
+		},
+		{
+			"_id": "8",
+			"name": "Black T-Shirt",
+			"img": "https://picsum.photos/200/300",
+			"gender": "male",
+			"size": "medium",
+			"brand": "Nike",
+			"price": 3100
+		}
+	]
 }

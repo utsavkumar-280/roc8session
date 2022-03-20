@@ -6,10 +6,10 @@ import { AppDataProvider } from "./context/AppDataProvider";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
-  <StrictMode>
-    <AppDataProvider>
-      <App />
-    </AppDataProvider>
-  </StrictMode>,
-  rootElement
+	<StrictMode>
+		<AppDataProvider>
+			<App />
+		</AppDataProvider>
+	</StrictMode>,
+	rootElement
 );
